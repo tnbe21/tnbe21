@@ -1,4 +1,16 @@
-## Hi there 👋
+# TLDR
+Software Engineer in Japan.
+
+# Skills
+* Node.js, Ruby on Rails, React, Express
+* TypeScript, Python, Ruby, Java
+* MongoDB, MySQL, Redis
+* GCP, AWS
+
+etc.
+
+# My Career
+[see it](./docs/career/README.ja.md)
 
 <!--
 **tnbe21/tnbe21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
