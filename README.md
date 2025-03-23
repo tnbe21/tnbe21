@@ -16,6 +16,9 @@
 * リファクタリング、自動テスト/CI/CDの設定
 
 # 実務開発経験
+<details>
+<summary>Click to expand</summary>
+
 [![JavaScript](https://skillicons.dev/icons?i=js "JavaScript")](https://skillicons.dev)
 [![Python](https://skillicons.dev/icons?i=py "Python")](https://skillicons.dev)
 [![Bash](https://skillicons.dev/icons?i=bash "Bash")](https://skillicons.dev)
@@ -63,6 +66,8 @@
 [![Eclipse](https://skillicons.dev/icons?i=eclipse "Eclipse")](https://skillicons.dev)
 [![Notion](https://skillicons.dev/icons?i=notion "Notion")](https://skillicons.dev)
 [![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi "Raspberry Pi")](https://skillicons.dev)
+
+</details>
 
 など
 
