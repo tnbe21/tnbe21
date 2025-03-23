@@ -4,6 +4,7 @@
 * Birthday: 1905-05-21
 * Education: Kyoto University, Faculty of Engineering, Department of Electrical and Electronic Engineering, graduated in 2012
 * Residence: Tokyo
+* LIKES: ⚽️ 🏃 📷 <img src="./assets/img/shisha.png" width="20" height="20" alt="シーシャ" title="from https://www.emojis.com/emoji/shisha-EljaMuQIIbZ"> ♨️
 
 # Self-PR
 * Experience as a development lead, implementing and maintaining entire services.
