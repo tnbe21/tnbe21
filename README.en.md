@@ -14,11 +14,15 @@
 * Refactoring, Automated Testing/CI/CD Setup
 
 # Practical Development Experience
-* Languages: JavaScript, Python, Shell Script, Ruby, Java, PHP, TypeScript, Scala
-* Frameworks: Express, Django, Ruby on Rails, Spring, React
-* Databases: MySQL, BigQuery, MongoDB, Redis
-* Cloud Platforms: GCP, AWS
-* Tools: terraform, Docker, k8s, Jenkins, Memcached
+[![My Skills](https://skillicons.dev/icons?i=js,py,bash,ruby,java,php,ts,scala,html,css,sass)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,graphql,jest,npm,django,rails,spring,react,laravel,bootstrap,heroku,netlify)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongo,redis,postgres)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=gcp,aws)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=terraform,docker,k8s,jenkins,git,github,githubactions,vim,vscode,pycharm,eclipse,notion,raspberrypi)](https://skillicons.dev)
 
 etc.
 

@@ -14,11 +14,15 @@
 * リファクタリング、自動テスト/CI/CDの設定
 
 # 実務開発経験
-* 言語: JavaScript、Python、シェルスクリプト、Ruby、Java、PHP、TypeScript、Scala
-* フレームワーク: Express、Django、Ruby on Rails、Spring、React
-* データベース: MySQL、BigQuery、MongoDB、Redis
-* クラウドプラットフォーム: GCP、AWS
-* ツール: terraform、Docker、k8s、Jenkins、Memcached
+[![My Skills](https://skillicons.dev/icons?i=js,py,bash,ruby,java,php,ts,scala,html,css,sass)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,graphql,jest,npm,django,rails,spring,react,laravel,bootstrap,heroku,netlify)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongo,redis,postgres)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=gcp,aws)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=terraform,docker,k8s,jenkins,git,github,githubactions,vim,vscode,pycharm,eclipse,notion,raspberrypi)](https://skillicons.dev)
 
 など
 
