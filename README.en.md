@@ -15,6 +15,7 @@
 # Mainly Interests
 * Backend Implementation
 * Refactoring, Automated Testing/CI/CD Setup
+* AI (AI-driven development, service implementation, etc.)
 
 # Practical Development Experience
 <details>
