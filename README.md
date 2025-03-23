@@ -1,3 +1,5 @@
+[![English](https://img.shields.io/badge/lang-english-blue)](./README.en.md)
+
 # 個人情報
 * 誕生日: 1905-05-21
 * 最終学歴: 京都大学工学部電気電子工学科2012年卒業
