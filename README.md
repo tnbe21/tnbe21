@@ -1,28 +1,46 @@
-# TLDR
-Software Engineer in Japan.
+# 個人情報
+* 誕生日: 1905-05-21
+* 最終学歴: 京都大学工学部電気電子工学科2012年卒業
+* 居住地: 東京
 
-# Skills
-* Node.js, Ruby on Rails, React, Express
-* TypeScript, Python, Ruby, Java
-* MongoDB, MySQL, Redis
-* GCP, AWS
+# 自己PR
+* 開発リードとして、サービス全体の実装と保守の経験があります。
+* 主にウェブフロントおよびバックエンドの実装経験があります。
+* リファクタリングやテストコードの設定など、保守性向上のための取り組みを主導しました。
+* Node.js、Python、GCP、MySQL、MongoDBに精通しています。
 
-etc.
+# 主な関心分野
+* バックエンド実装
+* リファクタリング、自動テスト/CI/CDの設定
 
-# My Career
-[see it](./docs/career/README.ja.md)
+# 実務開発経験
+* 言語: JavaScript、Python、シェルスクリプト、Ruby、Java、PHP、TypeScript、Scala
+* フレームワーク: Express、Django、Ruby on Rails、Spring、React
+* データベース: MySQL、BigQuery、MongoDB、Redis
+* クラウドプラットフォーム: GCP、AWS
+* ツール: terraform、Docker、k8s、Jenkins、Memcached
+
+など
+
+# 所有資格
+* データベーススペシャリスト(2024年12月)
+* TOEIC L&R 740点(2022年2月)
+* 応用情報(2014年6月)
+
+# 職歴
+[こちらを参照](./docs/career/README.md)
 
 <!--
-**tnbe21/tnbe21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**tnbe21/tnbe21** は ✨ _特別な_ ✨ リポジトリです。この `README.md` (このファイル) はあなたのGitHubプロフィールに表示されます。
 
-Here are some ideas to get you started:
+以下のアイデアを参考にしてください:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 現在取り組んでいること ...
+- 🌱 現在学んでいること ...
+- 👯 コラボレーションに興味があること ...
+- 🤔 助けを求めていること ...
+- 💬 私に聞いてください ...
+- 📫 連絡方法: ...
+- 😄 代名詞: ...
+- ⚡ 面白い事実: ...
 -->
