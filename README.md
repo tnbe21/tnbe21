@@ -1,7 +1,7 @@
 [![English](https://img.shields.io/badge/lang-english-blue)](./README.en.md)
 
 # 個人情報
-* 誕生日: 1905-05-21
+* 誕生日: 1985-05-21
 * 最終学歴: 京都大学工学部電気電子工学科2012年卒業
 * 居住地: 東京
 * LIKES: ⚽️ 🏃 📷 <img src="./assets/img/shisha.png" width="20" height="20" alt="シーシャ" title="from https://www.emojis.com/emoji/shisha-EljaMuQIIbZ"> ♨️
