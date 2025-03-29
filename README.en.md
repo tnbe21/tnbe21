@@ -1,18 +1,16 @@
 [![日本語](https://img.shields.io/badge/lang-日本語-blue)](./README.md)
 
-# Personal
+# About
+* Experience as a web front-end and back-end development lead, implementing and maintaining entire services.
+* Led initiatives for improving maintainability, such as refactoring and setting up test code.
+* Proficient in Node.js, Python, GCP, MySQL, and MongoDB.
+
 * Birthday: 1905-05-21
 * Education: Kyoto University, Faculty of Engineering, Department of Electrical and Electronic Engineering, graduated in 2012
 * Residence: Tokyo
 * LIKES: ⚽️ 🏃 📷 <img src="./assets/img/shisha.png" width="20" height="20" alt="シーシャ" title="from https://www.emojis.com/emoji/shisha-EljaMuQIIbZ"> ♨️
 
-# Self-PR
-* Experience as a development lead, implementing and maintaining entire services.
-* Broad engineering experience, primarily in web front-end and back-end application implementation.
-* Led initiatives for improving maintainability, such as refactoring and setting up test code.
-* Proficient in Node.js, Python, GCP, MySQL, and MongoDB.
-
-# Mainly Interests
+# Interests
 * Backend Implementation
 * Refactoring, Automated Testing/CI/CD Setup
 * AI (AI-driven development, service implementation, etc.)
@@ -71,7 +69,7 @@
 
 </details>
 
-etc.
+and more
 
 # Qualifications
 * Database Specialist @ IPA (December 2024)

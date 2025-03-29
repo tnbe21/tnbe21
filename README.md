@@ -1,18 +1,15 @@
 [![English](https://img.shields.io/badge/lang-english-blue)](./README.en.md)
 
-# 個人情報
+# About
+* 主にウェブフロントおよびバックエンドの開発リードとしてサービス全体の実装と保守の経験があります。
+* リファクタリングやテストコードの設定など、保守性向上のための取り組みを主導しました。
+* Node.js、Python、GCP、MySQL、MongoDBに精通しています。
 * 誕生日: 1905-05-21
 * 最終学歴: 京都大学工学部電気電子工学科2012年卒業
 * 居住地: 東京
 * LIKES: ⚽️ 🏃 📷 <img src="./assets/img/shisha.png" width="20" height="20" alt="シーシャ" title="from https://www.emojis.com/emoji/shisha-EljaMuQIIbZ"> ♨️
 
-# 自己PR
-* 開発リードとして、サービス全体の実装と保守の経験があります。
-* 主にウェブフロントおよびバックエンドの実装経験があります。
-* リファクタリングやテストコードの設定など、保守性向上のための取り組みを主導しました。
-* Node.js、Python、GCP、MySQL、MongoDBに精通しています。
-
-# 主な関心分野
+# 関心分野
 * バックエンド実装
 * リファクタリング、自動テスト/CI/CDの設定
 * AI(AI駆動開発、サービス実装、etc.)
