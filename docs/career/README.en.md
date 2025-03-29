@@ -1,3 +1,5 @@
+[![日本語](https://img.shields.io/badge/lang-日本語-blue)](./README.md)
+
 # Career History
 ## SaaS for Construction Industry (Full-time)
 ### October 2023 - Present

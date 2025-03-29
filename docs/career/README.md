@@ -1,3 +1,5 @@
+[![English](https://img.shields.io/badge/lang-english-blue)](./README.en.md)
+
 # 職務経歴
 ## 建築業界向けSaaS（正社員）
 ### 2023年10月 - 現在
