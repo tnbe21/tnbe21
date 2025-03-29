@@ -57,7 +57,7 @@
   * Slack
   * Linux
 
-# Internet Advertising and Gaming Industry (Full-time)
+## Internet Advertising and Gaming Industry (Full-time)
 * Period: April 2012 - October 2020
 * Position: Smartphone Game Development and Operations Engineer
 * Main Responsibilities:
