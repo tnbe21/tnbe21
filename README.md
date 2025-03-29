@@ -4,7 +4,7 @@
 * 主にウェブフロントおよびバックエンドの開発リードとしてサービス全体の実装と保守の経験があります。
 * リファクタリングやテストコードの設定など、保守性向上のための取り組みを主導しました。
 * Node.js、Python、GCP、MySQL、MongoDBに精通しています。
-* 誕生日: 1905-05-21
+* 誕生日: 1985-05-21
 * 最終学歴: 京都大学工学部電気電子工学科2012年卒業
 * 居住地: 東京
 * LIKES: ⚽️ 🏃 📷 <img src="./assets/img/shisha.png" width="20" height="20" alt="シーシャ" title="from https://www.emojis.com/emoji/shisha-EljaMuQIIbZ"> ♨️
