@@ -52,6 +52,7 @@
   * Acquired Rails and Ruby implementation skills
 * Technology Stack:
   * Ruby
+  * Rails
   * MySQL
   * Bitbucket
   * Jira
@@ -86,7 +87,7 @@
     * Ported modules developed by the UK subsidiary to Japan
 * Technology Stack:
   * Python
-  * ShellScript
+  * Shell script
   * Google Apps Script
   * MySQL (Cloud SQL)
   * Redis
@@ -96,7 +97,8 @@
   * Terraform
   * Docker
   * GCP
-  * GitHub / GitHub Actions
+  * GitHub
+  * GitHub Actions
   * Slack
   * Linux
 
@@ -173,13 +175,13 @@
   * Java7
   * Spring
   * MySQL
-  * memcached
+  * Memcached
   * Redis
-  * GHE
+  * Github Enterprise
   * Github
   * Jenkins
   * OpenStack
-  * ChatWork
+  * Chatwork
   * HipChat
   * Slack
   * Asana
@@ -200,7 +202,7 @@
 * Technology Stack:
   * Node.js
   * MongoDB
-  * GHE
+  * Github Enterprise
   * Jenkins
   * HipChat
   * Jira
@@ -220,11 +222,11 @@
 * Technology Stack:
   * Java7
   * Struts2
-  * Freemarker
+  * FreeMarker
   * MySQL
-  * memcached
+  * Memcached
   * Jenkins
-  * ChatWork
+  * Chatwork
   * Linux
 
 ### January 2013 - August 2013

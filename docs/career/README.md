@@ -52,6 +52,7 @@
   * RailsやRubyの実装スキル習得
 * 技術スタック：
   * Ruby
+  * Rails
   * MySQL
   * Bitbucket
   * Jira
@@ -86,7 +87,7 @@
     * イギリス子会社側が開発したモジュールを日本に移植
 * 技術スタック：
   * Python
-  * ShellScript
+  * Shell script
   * Google Apps Script
   * MySQL（Cloud SQL）
   * Redis
@@ -96,7 +97,8 @@
   * Terraform
   * Docker
   * GCP
-  * GitHub / GitHub Actions
+  * GitHub
+  * GitHub Actions
   * Slack
   * Linux
 
@@ -133,8 +135,7 @@
   * マスタデータのキャッシュ量を削減する処理を実装しサーバーのパフォーマンスを改善
   * GCPによるサーバー運用・保守対応
   * MongoDBをMongoDB Cloud Managerによるフルマネージドな環境に移行、バージョンアップグレードやバックアップ等DB運用の人的コストを削減
-    * 2019年の弊社AdventCalendarにその作業について執筆
-      https://qiita.com/tnbe21/items/4458f47a9a9e8d80c455
+    * 2019年の弊社AdventCalendarにその作業について執筆: https://qiita.com/tnbe21/items/4458f47a9a9e8d80c455
   * 2019年10月 - 2020年1月にGo、クリーンアーキテクチャーの勉強会に参加。その一環で、Goで開発中の別ゲームの実装も経験
 * 技術スタック:
   * Node.js
@@ -174,13 +175,13 @@
   * Java7
   * Spring
   * MySQL
-  * memcached
+  * Memcached
   * Redis
-  * GHE
+  * Github Enterprise
   * Github
   * Jenkins
   * OpenStack
-  * ChatWork
+  * Chatwork
   * HipChat
   * Slack
   * Asana
@@ -201,7 +202,7 @@
 * 技術スタック:
   * Node.js
   * MongoDB
-  * GHE
+  * Github Enterprise
   * Jenkins
   * HipChat
   * Jira
@@ -221,11 +222,11 @@
 * 技術スタック:
   * Java7
   * Struts2
-  * Freemarker
+  * FreeMarker
   * MySQL
-  * memcached
+  * Memcached
   * Jenkins
-  * ChatWork
+  * Chatwork
   * Linux
 
 ### 2013年1月 - 2013年8月
