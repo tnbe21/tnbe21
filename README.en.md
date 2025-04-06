@@ -5,7 +5,6 @@
 * Led initiatives for improving maintainability, such as refactoring and setting up test code.
 * Proficient in Node.js, Python, GCP, MySQL, and MongoDB.
 * Birthday: 1985-05-21
-* Education: Kyoto University, Faculty of Engineering, Department of Electrical and Electronic Engineering, graduated in 2012
 * Residence: Tokyo
 * LIKES: ⚽️ 🏃 📷 <img src="./assets/img/shisha.png" width="20" height="20" alt="シーシャ" title="from https://www.emojis.com/emoji/shisha-EljaMuQIIbZ"> ♨️
 
