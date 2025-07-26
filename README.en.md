@@ -6,7 +6,7 @@
 * Proficient in Node.js, Python, GCP, MySQL, and MongoDB.
 * Birthday: 1985-05-21
 * Residence: Tokyo
-* LIKES: ⚽️ 🏃 📷 <img src="./assets/img/shisha.png" width="20" height="20" alt="シーシャ" title="from https://www.emojis.com/emoji/shisha-EljaMuQIIbZ"> ♨️
+* LIKES: ⚽️ 🏃 📷 ♨️
 
 # Interests
 * Backend Implementation

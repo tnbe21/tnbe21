@@ -6,7 +6,7 @@
 * Node.js、Python、GCP、MySQL、MongoDBに精通しています。
 * 誕生日: 1985-05-21
 * 居住地: 東京
-* LIKES: ⚽️ 🏃 📷 <img src="./assets/img/shisha.png" width="20" height="20" alt="シーシャ" title="from https://www.emojis.com/emoji/shisha-EljaMuQIIbZ"> ♨️
+* LIKES: ⚽️ 🏃 📷 ♨️
 
 # 関心分野
 * バックエンド実装
